@@ -1,0 +1,4 @@
+1- Image permission kullanımı için AndroidManifest.xml  dosyasındaki  4 ve 5. satırların eklenmesi gerekmektedir.
+2- Permission.kt dosyasında bulunan registerLauncher fonksiyonu ve GorselSec fonksiyonlarındaki kodlar ile Gorsel seçme ve izinleri için kodlar yazılmıştır.
+3- Fragmentlerde veya Activityler içerisinde kullanılabilir.
+4- Kullanıcı karşısına gelen izini onaylarsa bir daha izin sorusuyla karşılaşmaz
